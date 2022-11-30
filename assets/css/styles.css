@@ -1,0 +1,109 @@
+.body {
+  background-color: rgb(195, 195, 195);
+}
+
+.container {
+  margin-top: 100px;
+}
+
+.navbar {
+  background-color: #e3f2fd;
+}
+
+.box1 {
+  border-spacing: 50px;
+  border: 5px outset rgb(167, 197, 199);
+  background-color: #e3f2fd;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+.visualization_preview {
+  width: fit-content;
+  height: fit-content;
+  border: 5px outset rgb(167, 197, 199);
+  background-color: #e3f2fd;
+}
+
+.headers {
+  text-align: center;
+  color: rgb(134, 191, 228);
+  text-shadow: black 2px 2px 2px;
+}
+
+.preview {
+  width: 200px;
+  height: 200px;
+  padding: 15px;
+}
+
+.preview:hover {
+  border: 3px outset;
+  border-color: rgb(167, 197, 199);
+}
+
+.comparisons {
+  width: fit-content;
+  height: fit-content;
+  border: 5px outset rgb(167, 197, 199);
+  background-color: #e3f2fd;
+  margin: 0 auto;
+}
+
+.compare {
+  max-width: 100%;
+  max-height: auto;
+  padding: 15px;
+}
+
+.compare:hover {
+  border: 3px outset;
+  border-color: rgb(167, 197, 199);
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.compare_headers {
+  text-align: center;
+  color: rgb(134, 191, 228);
+  text-shadow: 2px 2px 2px black;
+}
+
+.navbar-brand {
+  color: white;
+  padding-top: 10px;
+  /* background-image: -moz-radial-gradient(rgb(134, 191, 228), rgb(0, 0, 255)); */
+  background-image: url(https://toppng.com/public/uploads/thumbnail/earth-planet-earth-psd-11563850686cxarhgcaq8.png);
+  background-size: 115px;
+  background-position-x: -5px;
+  background-position-y: center;
+}
+
+.navbar-brand:hover {
+  color: crimson;
+}
+
+.dataframe {
+  border: 5px outset rgb(167, 197, 199);
+  background-color: #e3f2fd;
+}
+
+tbody:nth-child(even) {
+  background: #e3f2fd;
+}
+
+tr:nth-child(odd) {
+  background: #b5c2ca;
+}
+
+.data_p {
+  text-align: center;
+}
+
+.data_header {
+  background-color: #e3f2fd;
+  margin-bottom: 1rem;
+  border: 5px outset rgb(167, 197, 199);
+}
