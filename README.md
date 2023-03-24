@@ -34,16 +34,17 @@ The navigation bar is displayed at the top of every page and contains the follow
 
    * Home: Returns the user to the landing page.
    * Plots: A dropdown menu containing links to each of the visualization pages.
-   * Comparisons: Links to the comparisons page.
+   * Compare: Links to the comparisons page.
    * Data: Links to the data page.
 
 The navigation bar is responsive and uses Bootstrap for styling.
 
 ## Deployment
 
-The website is deployed to GitHub Pages at the following link: https://mleopol1.github.io/Web-Design-Challenge/
+The website is deployed to GitHub Pages and can be viewed by clicking [here](https://mleopol1.github.io/Web-Design-Challenge/ "here")
 
 ## Credits
 
-The weather data used for this project is provided by OpenWeatherMap API. 
+The weather data used for this project is provided by OpenWeatherMap API.
+
 The visualizations come from my repository [here](https://github.com/Mleopol1/python-api-challenge "here")
