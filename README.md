@@ -26,7 +26,7 @@ The comparisons page displays all four visualizations on a single page, allowing
 
 ### Data Page
 
-The data page displays a responsive table containing the weather data used to create the visualizations. The table is created using the Bootstrap table component and displays the data in a user-friendly format.
+The data page displays a table containing the weather data used to create the visualizations. The table is created using the Bootstrap table component and displays the data in a user-friendly format.
 
 ### Navigation Bar
 
